@@ -1,0 +1,8 @@
+<ul id="students-menu" class="left-content">
+  <div id='june-class'>
+    {% for student in site.data.students %}
+      <li><a href="#{{ student.id }}"> {{ student.name }} </a></li>
+    {% endfor %}
+  </div>
+
+</ul>

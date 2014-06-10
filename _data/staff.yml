@@ -1,0 +1,77 @@
+- id: "jason"
+  name: Jason Moss
+  adjectives: "detailed, extroverted, balanced"
+  favourite_movie: "The Godfather"
+  favourite_person: "Hunter S. Thompson.  I'm not sure I would survive the night, but I guarantee it would be insanely memorable."
+  skill: "How to shoot pool."
+  surprise: "I have a list of every book I have read and every movie I have seen since 1983."
+  twitter: "thisismetis"
+  linkedin: "http://www.linkedin.com/pub/jason-moss/3/90/24/"
+  other: "http://www.billiardsmovies.com"
+
+- id: "bernardo"
+  name: Bernardo Rodriguez
+  adjectives: "optimistic, determined, day dreamer"
+  favourite_movie: "Pulp Fiction"
+  favourite_person: "George Orwell, over Scotch in Barcelona, to chat about the Spanish Civil war."
+  skill: "Train to run 6.2 miles in 40 minutes"
+  surprise: "I have Spanish olive oil, Parmesan and red wine almost every day."
+  twitter: "bdo"
+  linkedin: "http://www.linkedin.com/in/bernardorodriguez"
+  other: "NA"
+
+- id: "josh"
+  name: Josh Steiner
+  adjectives: "optimistic, motivated, minimalist"
+  favourite_movie: "Good Will Hunting"
+  favourite_person: "Sir Jony Ive. He's one of the best designers who ever lived. I'd love to talk to him about his process."
+  skill: "Ruby on Rails! :) Or volleyball."
+  surprise: "Even after 6 years of Spanish (including at a college level), I still can't roll my 'r's."
+  twitter: "josh_steiner"
+  linkedin: "http://www.linkedin.com/in/jrsteiner"
+  other: "http://jsteiner.me"
+
+- id: "alex"
+  name: Alex Fiore
+  adjectives: 
+  favourite_movie: 
+  favourite_person: 
+  skill: 
+  surprise: 
+  twitter: 
+  linkedin: 
+  other: 
+
+- id: "harry"
+  name: Harry
+  adjectives: 
+  favourite_movie: 
+  favourite_person: 
+  skill: 
+  surprise: 
+  twitter: 
+  linkedin: 
+  other: 
+
+- id: "matt"
+  name: Matthew 
+  adjectives: 
+  favourite_movie: 
+  favourite_person: 
+  skill: 
+  surprise: 
+  twitter: 
+  linkedin: 
+  other: 
+
+- id: "tarlin"
+  name: Tarlin Ray
+  adjectives: "dedicated, coach, goal oriented"
+  favourite_movie: "Rise of the Empire"
+  favourite_person: "Ben Franklin- He is the god father of entrepreneurship and one of the most innovative people in history. Most people do not know that he created the Franklin Stove and originated the first fire department."
+  skill: "Shooting a basketball."
+  surprise: "I have never met anyone that has the same first name as me."
+  twitter: "NA"
+  linkedin: "http://www.linkedin.com/pub/tarlin-ray/0/778/79a/"
+  other: "http://traygroove.tumblr.com/"
+
