@@ -1,11 +1,136 @@
-- id: "andrew"
-  name: Andrew Slewter
+- id: "wax"
+  name: Wax
   class: NYJ14
-  adjectives: "fun, balanced, curious"
-  favourite_movie: "Indiana Jones and the Last Crusade"
-  favourite_person: "Normally, I might pick a historical figure like Augustus Ceasar, but when I saw this question I immediately thought about my grandfather on my dad's side who I never got to meet.  I hear he was an adventurous, fun, and playful person.  So, I think having dinner with him would be a pretty fun experience."
-  skill: "Given some of my project management background some things that immediately come to mind are pairwise comparison as a means to prioritize feature sets, or project estimation as a means to determine difficulty, duration, etc."
-  surprise: "Though I don't have any ethnic ties to Eastern Europe, I've lived in Russia and Romania for a total of about 5 years.  Both experiences shared a number of similarities and at the same time were dramatically different.  I'd be happy to speak with classmates about both."
+  adjectives: "passionate, tolerant, contemplative"
+  favourite_movie: "What Time Is It There"
+  favourite_person: "Ghandi.  I'd like to ask him what food he craved the most during his hunger strike. "
+  skill: "How to make a perfect Manhattan."
+  surprise: "That I do not have a Facebook account."
   twitter: "NA"
-  linkedin: "http://www.linkedin.com/pub/andrew-slawter-pmp/8/658/a56/"
+  linkedin: "https://www.linkedin.com/in/waxnyc"
+  other: "www.indieflavor.com"
+
+- id: "will"
+  name: Will Alisberg
+  class: NYJ14
+  adjectives: "quantitative, loyal, compulsive"
+  favourite_movie: "Die Hard"
+  favourite_person: "Socrates: despite the debate that remains as to the legitimacy of the figure we know as 'Socrates,' he represents a fervent belief in his own value system and a conviction in his system of morality. Moreover, Washington could sorely use a Socratic influence these days."
+  skill: "Gambling... ahem... I mean analysis of risk/reward and probability"
+  surprise: "I hate Jon Stewart."
+  twitter: "NA"
+  linkedin: "https://www.linkedin.com/profile/view?id=191296725&trk=nav_responsive_tab_profile"
   other: "NA"
+
+- id: "howenstine"
+  name: Will Howenstine 
+  class: NYJ14
+  adjectives: "goofy, serious, contradictory"
+  favourite_movie: "American Psycho"
+  favourite_person: "F Scott Fitzgerald in the early years. He knew how to drink and was probably super fun in the early stages of his alcoholism. Plus he hung out with a lot of other cool people and did fancy things. "
+  skill: "How to eat an entire apple."
+  surprise: "I was forced to run a half marathon, twice."
+  twitter: "NA"
+  linkedin: "https://www.linkedin.com/pub/william-howenstine/36/2a3/519"
+  other: "howenstine.co" 
+
+- id: "charlie"
+  name: Charlie Massry  
+  class: NYJ14
+  adjectives: "Cool, Calm, Collected"
+  favourite_movie: "Pacific Rim"
+  favourite_person: "Dwight D. Eisenhower. He was the president of the United States during post-World-War-II and oversaw many modern changes that we rely on today, such as NASA and the highway system. My questions for him would be about what America was like back then. All too often, I hear about how great America was, and how it isn’t any more, but I can’t help but feel like the older generation might just be blinded by nostalgia. Talking to Eisenhower might help me better realize if my theory is correct or not."
+  skill: "I could teach everyone how to properly construct a logical argument without logical fallacies.  "
+  surprise: "I have actually wanted to be a computer programmer when I was 11.  "
+  twitter: "NA"
+  linkedin: ""
+  other: "charliemassry.com" 
+
+- id: "ian"
+  name: Ian Moreno  
+  class: NYJ14
+  adjectives: "ambitious, creative, pragmatic"
+  favourite_movie: "Wedding Crashers"
+  favourite_person: "Mayer Amschel Rothschild, to learn his secrets, strategies, and hear him tell the story of how he built his banking business to create the wealthiest family dynasty in human history. "
+  skill: "How to publish an eBook start to finish."
+  surprise: "I'm a licensed registered nurse."
+  twitter: "NA"
+  linkedin: ""
+  other: "https://github.com/IanMoreno" 
+
+- id: "rafael"
+  name: Rafael Freaner  
+  class: NYJ14
+  adjectives: "Patient, Wise, Warrior"
+  favourite_movie: "Erin Brokovich"
+  favourite_person: "Frida Kahlo. She was such a wonderful artist and person. It didn't matter how much pain and suffering she was going through, she kept creating art."
+  skill: "Logo design best practices."
+  surprise: "I can bake some really good guilt-free desserts. "
+  twitter: "NA"
+  linkedin: "www.linkedin.com/pub/rafael-freaner/21/740/978/  "
+  other: "https://www.behance.net/rafaelfreaner"
+
+- id: "abin"
+  name: Abin Abraham  
+  class: NYJ14
+  adjectives: "Curious Traveler"
+  favourite_movie: "Man on Wire/Life of Brian"
+  favourite_person: "Any astronaut. I want to know what the experience of being in space is like and find out if it has impacted their views on the world and humanity. "
+  skill: "How to beat 2048."
+  surprise: "I know a couple of the secret passages inside the American Museum of Natural History."
+  twitter: "NA"
+  linkedin: "NA"
+  other: "NA"
+
+- id: "eshleman"
+  name: Robert eshleman  
+  class: NYJ14
+  adjectives: "amateur-photographer, sometimes-chef, subway-nerd"
+  favourite_movie: "Goldeneye"
+  favourite_person: "If I had the opportunity, I would choose to have dinner with the late Irish poet Seamus Heaney. I've always been fascinated by his literary voice, and I would love to hear him read and interpret his work."
+  skill: "I could teach almost anything you might possibly want to know about Apple products, software and services."
+  surprise: "Like many New Yorkers, I'm not actually from the city. I grew up in New Orleans, went to college in Virginia, and spent several summers working at an outdoors camp in North Carolina. My boyfriend and I moved to New York three years ago so he could pursue a teaching career with Teach for America."
+  twitter: "NA"
+  linkedin: "www.linkedin.com/in/roberteshleman/"
+  other: "NA"
+  
+- id: "alexg"
+  name: Alex Garkavenko  
+  class: NYJ14
+  adjectives: "curious, caffeinated, cat-lady"
+  favourite_movie: "Training Day"
+  favourite_person: "Buckminster Fuller"
+  skill: "Growing bonsai from cuttings. (Alternatively, how to split an apple in half with your bare hands.)"
+  surprise: "I once made a documentary film with the ambitious goal of following subjects for 5 years."
+  twitter: "NA"
+  linkedin: "https://www.linkedin.com/in/alexgarkavenko"
+  other: "http://www.alexgarkavenko.com/"
+
+- id: "ifeanyi"
+  name: Ifeanyi Kalu  
+  class: NYJ14
+  adjectives: "Determined, Thinker, Optimist"
+  favourite_movie: "Game of Thrones"
+  favourite_person: "I would have loved to have a dinner with the late Steve Jobs because I would have loved to tap into his mind and learn how trend setters like him reason. And what is usually his motivation and drive."
+  skill: "I can teach everyone how to cook an African dish."
+  surprise: "I know how to cook and I play soccer."
+  twitter: "NA"
+  linkedin: "https://www.linkedin.com/pub/ifeanyi-kalu/67/5bb/53b"
+  other: "NA"
+
+- id: "nick"
+  name: Nick Narh  
+  class: NYJ14
+  adjectives: "Friendly, Determined, Optimistic"
+  favourite_movie: "Training Day"
+  favourite_person: "I would like to have dinner with President John F. Kennedy. I chose him because he was a great orator and motivator of people. He emphasized public service and brought the nation together. He was an ambitious president and made sure that the United States would make it too the moon. President Kennedy was likeable but also resolute when dealing in tense situations like the Cuban missile crisis. His over all qualities are something that I do look up too, especially when it comes to working for the public good. I hope to be able to influence my community in a similar fashion."
+  skill: "One skill that I could teach to everyone in the class how to install windows on a mac! I spent a good amount of time doing this recently and would like to share the knowledge that I learned through trial and error. If they aren’t interested in that then I could also teach them about how to properly solder electrical components. I love to play around with, fix, and break gadgets."
+  surprise: "I have a mild obsession with rabbits and to not be alarmed if they see rabbits on my background in class."
+  twitter: "NA"
+  linkedin: "http://www.linkedin.com/pub/nicholas-narh/26/635/57a"
+  other: "http://walmartfiend.github.io/"
+
+
+
+
+
