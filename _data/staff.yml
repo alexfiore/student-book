@@ -31,16 +31,17 @@
   linkedin: "http://www.linkedin.com/in/jrsteiner"
   other: "http://jsteiner.me"
 
-- id: "alex"
-  name: Alex Fiore
-  adjectives: 
-  favourite_movie: 
-  favourite_person: 
-  skill: 
-  surprise: 
-  twitter: 
-  linkedin: 
-  other: 
+- id: "alexf"
+  name: Alex Fiore  
+  class: NYJ14
+  adjectives: "open, communicative, perseverant"
+  favourite_movie: "Eternal Sunshine of the Spotless Mind"
+  favourite_person: "George H.W. Bush"
+  skill: ""
+  surprise: "You'd have to tell me when it happens!"
+  twitter: "NA"
+  linkedin: "https://www.linkedin.com/in/alexfi0re"
+  other: "http://www.alexfiore.com/"
 
 - id: "harry"
   name: Harry
