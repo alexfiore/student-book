@@ -10,7 +10,7 @@
   linkedin: "https://www.linkedin.com/in/waxnyc"
   other: "www.indieflavor.com"
 
-- id: "will"
+- id: "willa"
   name: Will Alisberg
   class: NYJ14
   adjectives: "quantitative, loyal, compulsive"
@@ -22,7 +22,7 @@
   linkedin: "https://www.linkedin.com/profile/view?id=191296725&trk=nav_responsive_tab_profile"
   other: "NA"
 
-- id: "howenstine"
+- id: "willh"
   name: Will Howenstine 
   class: NYJ14
   adjectives: "goofy, serious, contradictory"
@@ -82,7 +82,7 @@
   linkedin: "NA"
   other: "NA"
 
-- id: "eshleman"
+- id: "robert"
   name: Robert eshleman  
   class: NYJ14
   adjectives: "amateur-photographer, sometimes-chef, subway-nerd"
@@ -93,7 +93,7 @@
   twitter: "NA"
   linkedin: "www.linkedin.com/in/roberteshleman/"
   other: "NA"
-  
+
 - id: "alexg"
   name: Alex Garkavenko  
   class: NYJ14
