@@ -32,27 +32,16 @@
   linkedin: "https://www.linkedin.com/in/alexfi0re"
   other: "http://www.alexfiore.com/"
 
-- id: "harry"
-  name: Harry
-  adjectives: 
-  favourite_movie: 
-  favourite_person: 
-  skill: 
-  surprise: 
-  twitter: 
-  linkedin: 
-  other: 
-
 - id: "matt"
-  name: Matthew 
-  adjectives: 
-  favourite_movie: 
-  favourite_person: 
-  skill: 
-  surprise: 
-  twitter: 
-  linkedin: 
-  other: 
+  name: Matthew Mongeau
+  adjectives: "developer, artist, minimalist"
+  favourite_movie: "Kill Bill"
+  favourite_person: "Richard Feynman, so we could make physics jokes together."
+  skill: "How to fold an origami crane." 
+  surprise: "I auditioned for the role of Alfalfa in the 1994 version of the Little Rascals."
+  twitter: "halogenandtoast"
+  linkedin: "http://www.linkedin.com/in/mattmongeau/"
+  other: "http://www.halogenandtoast.com" 
 
 - id: "tarlin"
   name: Tarlin Ray
